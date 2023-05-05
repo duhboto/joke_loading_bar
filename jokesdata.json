@@ -1,0 +1,329 @@
+[
+    {
+        "joke": "Why did the chicken go to the séance?",
+        "punchline": "To talk to the other side.",
+        "category": "animal"
+    },
+    {
+        "joke": "Why did the hipster burn his tongue?",
+        "punchline": "He drank his coffee before it was cool.",
+        "category": "hipster"
+    },
+    {
+        "joke": "Why don't scientists trust atoms?",
+        "punchline": "Because they make up everything.",
+        "category": "science"
+    },
+    {
+        "joke": "Why did the bicycle fall over?",
+        "punchline": "Because it was two-tired.",
+        "category": "pun"
+    },
+    {
+        "joke": "Why was the math book sad?",
+        "punchline": "Because it had too many problems.",
+        "category": "school"
+    },
+
+    {
+        "joke": "Why did the tomato turn red?",
+        "punchline": "Because it saw the salad dressing.",
+        "category": "food"
+    },
+    {
+        "joke": "Why don't ghosts go to the beach?",
+        "punchline": "Because they're afraid of the sand in their sheets.",
+        "category": "ghost"
+    },
+    {
+        "joke": "Why did the scarecrow win an award?",
+        "punchline": "Because he was outstanding in his field.",
+        "category": "farmer"
+    },
+    {
+        "joke": "Why did the frog call his insurance company?",
+        "punchline": "He had a jump in his car.",
+        "category": "animal"
+    },
+    {
+        "joke": "Why don't seagulls fly by the bay?",
+        "punchline": "Because then they would be bagels.",
+        "category": "animal"
+    },
+    {
+        "joke": "Why did the cookie go to the doctor?",
+        "punchline": "Because he was feeling crumbly.",
+        "category": "food"
+    },
+    {
+        "joke": "Why did the chicken join a band?",
+        "punchline": "Because he had drumsticks.",
+        "category": "animal"
+    },
+    {
+        "joke": "Why did the scarecrow win an award?",
+        "punchline": "Because he was outstanding in his field.",
+        "category": "farmer"
+    },
+    {
+        "joke": "Why did the belt go to jail?",
+        "punchline": "It held up the pants.",
+        "category": "pun"
+    },
+    {
+        "joke": "Why don't scientists trust atoms?",
+        "punchline": "Because they make up everything.",
+        "category": "science"
+    },
+    {
+        "joke": "Why did the hipster burn his tongue?",
+        "punchline": "He drank his coffee before it was cool.",
+        "category": "hipster"
+    },
+    {
+        "joke": "Why was the math book sad?",
+        "punchline": "Because it had too many problems.",
+        "category": "school"
+    },
+    {
+        "joke": "Why did the skeleton go to the party alone?",
+        "punchline": "Because he had no body to go with him.",
+        "category": "spooky"
+    },
+    {
+        "joke": "Why did the tomato turn yellow?",
+        "punchline": "Because it was afraid of the ketchup.",
+        "category": "food"
+    },
+    {
+        "joke": "Why did the music teacher need a ladder?",
+        "punchline": "To reach the high notes.",
+        "category": "music"
+    },
+    {
+        "joke": "Why did the football team go to the bank?",
+        "punchline": "To get their quarterback.",
+        "category": "sports"
+    },
+    {
+        "joke": "Why did the sailor become a pirate?",
+        "punchline": "Because he couldn't afford the yacht.",
+        "category": "sea"
+    },
+    {
+        "joke": "Why did the frog call his insurance company again?",
+        "punchline": "He had another jump in his car.",
+        "category": "animal"
+    },
+    {
+        "joke": "Why did the scarecrow keep getting promoted?",
+        "punchline": "Because he was outstanding in his field.",
+        "category": "work"
+    },
+    {
+        "joke": "Why did the gardener plant a light bulb?",
+        "punchline": "He wanted to grow a power plant.",
+        "category": "nature"
+    },
+    {
+        "joke": "Why did the bee wear a helmet?",
+        "punchline": "Because he didn't want to get a buzz cut.",
+        "category": "animal"
+    },
+    {
+        "joke": "Why did the grape stop in the middle of the road?",
+        "punchline": "Because it ran out of juice.",
+        "category": "food"
+    },
+    {
+        "joke": "Why did the magician refuse to perform?",
+        "punchline": "He had nothing up his sleeve.",
+        "category": "magic"
+    },
+    {
+        "joke": "Why don't aliens eat clowns?",
+        "punchline": "Because they taste funny.",
+        "category": "space"
+    },
+    {
+        "joke": "Why did the computer go to the doctor?",
+        "punchline": "Because it had a virus.",
+        "category": "technology"
+    },
+    {
+        "joke": "Why did the baker go to therapy?",
+        "punchline": "Because he kneaded help.",
+        "category": "food"
+    },
+    {
+        "joke": "Why did the musician break up with his girlfriend?",
+        "punchline": "She just didn't harmonize with him anymore.",
+        "category": "music"
+    },
+    {
+        "joke": "Why did the chicken get a passport?",
+        "punchline": "To go on a world eggspedition.",
+        "category": "animal"
+    },
+    {   "joke": "Why did the snowman refuse to leave his house?",
+        "punchline": "He heard there was a heatwave.",
+        "category": "winter"
+    },
+    {
+        "joke": "Why did the can crusher quit his job?",
+        "punchline": "Because it was soda pressing.",
+        "category": "pun"
+    },
+    {
+        "joke": "Why did the dog sit in the shade?",
+        "punchline": "Because he didn't want to be a hot dog.",
+        "category": "animal"
+    },
+    {
+        "joke": "Why don't ants get sick?",
+        "punchline": "Because they have tiny ant-bodies.",
+        "category": "animal"
+    },
+    {
+        "joke": "Why did the painter go to jail?",
+        "punchline": "He was framed.",
+        "category": "pun"
+    },
+    {
+        "joke": "Why did the banana go to the doctor?",
+        "punchline": "Because it wasn't peeling well.",
+        "category": "food"
+    },
+    {
+        "joke": "Why did the fish blush?",
+        "punchline": "Because it saw the ocean's bottom.",
+        "category": "animal"
+    },
+    {
+        "joke": "Why did the train go to space?",
+        "punchline": "To visit the Milky Way station.",
+        "category": "space"
+    },
+    {
+        "joke": "Why did the car break up with the garage?",
+        "punchline": "It was tired of being parked.",
+        "category": "pun"
+    },
+    {
+        "joke": "Why did the tomato turn green?",
+        "punchline": "It was unripe for the occasion.",
+        "category": "food"
+    },
+    {
+        "joke": "Why did the photographer miss his appointment?",
+        "punchline": "He was focusing on something else.",
+        "category": "pun"
+    },
+    {
+        "joke": "Why did the bee go to the barbershop?",
+        "punchline": "To get a buzz cut.",
+        "category": "animal"
+    },
+    {
+        "joke": "Why did the fireman wear red suspenders?",
+        "punchline": "To keep his pants up.",
+        "category": "work"
+    },
+    {
+        "joke": "Why did the tree go to the dentist?",
+        "punchline": "To get a root canal.",
+        "category": "nature"
+    },
+    {
+        "joke": "Why did the math teacher love geometry?",
+        "punchline": "It was right up her alley.",
+        "category": "school"
+    },
+    {
+        "joke": "Why did the scarecrow win a Nobel Prize?",
+        "punchline": "Because he was out-standing in his field of research.",
+        "category": "farmer"
+    },
+    {
+        "joke": "Why did the baker refuse to lend money to the pastry chef?",
+        "punchline": "Because he kneaded dough.",
+        "category": "food"
+    },
+    {
+        "joke": "Why did the football coach go to the bank?",
+        "punchline": "To get his quarterback.",
+        "category": "sports"
+    },
+    {
+        "joke": "Why did the pirate buy an eye patch?",
+        "punchline": "Because he couldn't afford an iPad.",
+        "category": "pirate"
+    },
+    {
+        "joke": "Why did the chef add sugar to the salad?",
+        "punchline": "To make it a-sweet.",
+        "category": "food"
+    },
+    {
+        "joke": "Why did the computer go to the doctor?",
+        "punchline": "Because it had a virus.",
+        "category": "technology"
+    },
+    {
+        "joke": "Why did the banana split?",
+        "punchline": "Because it saw the ice cream.",
+        "category": "food"
+    },
+    {
+        "joke": "Why did the candle go to college?",
+        "punchline": "To get a wick-ed education.",
+        "category": "education"
+    },
+    {
+        "joke": "Why did the chicken wear a tuxedo?",
+        "punchline": "He was attending a hen-gagement party.",
+        "category": "animal"
+    },
+    {
+        "joke": "Why did the astronaut break up with his girlfriend?",
+        "punchline": "He needed more space.",
+        "category": "space"
+    },
+    {
+        "joke": "Why did the bicycle fall over again?",
+        "punchline": "Because it was two-tired.",
+        "category": "pun"
+    },
+    {
+        "joke": "Why did the electrician go to art school?",
+        "punchline": "To learn how to wire a-frame.",
+        "category": "work"
+    },
+    {
+        "joke": "Why did the farmer win an award?",
+        "punchline": "Because he was out-standing in his field.",
+        "category": "farmer"
+    },
+    {
+        "joke": "Why did the math book look so sad again?",
+        "punchline": "Because it had too many problems.",
+        "category": "school"
+    },
+    {
+        "joke": "Why did the dinosaur cross the road?",
+        "punchline": "Because chickens didn't exist yet.",
+        "category": "animal"
+    },
+    {
+        "joke": "Why did the sun go to school?",
+        "punchline": "To get brighter.",
+        "category": "nature"
+    },
+    {
+        "joke": "Why did the owl join the drama club?",
+        "punchline": "Because it loved a good hoot-dunnit.",
+        "category": "animal"
+    }
+    
+
+]
